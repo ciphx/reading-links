@@ -2,3 +2,4 @@ https://mostlynerdless.de/blog/2023/12/31/hello-ebpf-developing-ebpf-apps-in-jav
 https://mostlynerdless.de/blog/2024/09/10/hello-ebpf-writing-a-linux-scheduler-in-java-with-ebpf-15/
 https://github.com/parttimenerd/hello-ebpf
 https://qsantos.fr/2024/08/25/linux-pipes-are-slow/
+https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd
